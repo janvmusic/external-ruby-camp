@@ -22,7 +22,7 @@
 1) To be able to search for flight availability
 2) retrieve airport codes and names
 3) build backend JSON rest services
-4) build Frontend controllers and map model using emberjs
+4) build Frontend controllers and map model using React
 
 ## Out of scope:
 1) Bookings

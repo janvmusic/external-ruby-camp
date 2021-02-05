@@ -9,6 +9,9 @@ AllCops:
 Documentation:
   Enabled: false
 
+Style/Documentation:
+  Enabled: false 
+
 Layout/LineLength:
   Max: 120
 
