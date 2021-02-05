@@ -5,5 +5,8 @@
     }
   ],
   "settings": {
+    "ruby.rubocop.executePath": "/Users/jornunez/.rvm/gems/ruby-3.0.0/bin/",
+    "ruby.rubocop.configFilePath": ".rubocop.yml",
+    "ruby.rubocop.onSave": true
   }
 }
