@@ -31,3 +31,6 @@
 I should be able to search for a location and the start / end dates of my trip.
 
 The application should display real flight availability, you choose how (grouped vs non grouped, high vs low price etc).
+
+### Sources
+[Airport Database](https://github.com/jpatokal/openflights)
