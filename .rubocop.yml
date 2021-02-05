@@ -1,0 +1,27 @@
+AllCops:   
+  Exclude:     
+    - 'db/**/*'     
+    - 'config/**/*'
+    - 'bin/*'     
+    - 'script/**/*'
+    - 'client/**/*'
+
+Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+
+Metrics/BlockLength:
+  Exclude:
+    - 'test/**/*.rb'
+    - 'spec/**/*.rb'
+
+Style/NegatedIf:
+  EnforcedStyle: prefix
