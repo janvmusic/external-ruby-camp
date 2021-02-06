@@ -10,6 +10,7 @@ namespace :seeds do
       Airport.new(
         name: row.to_hash['name'],
         city: row.to_hash['city'],
+        country: row.to_hash['country'],
         iata: row.to_hash['iata']
       ).save
     end
