@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_02_05_233937) do
+ActiveRecord::Schema.define(version: 2021_02_06_194609) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -22,6 +22,7 @@ ActiveRecord::Schema.define(version: 2021_02_05_233937) do
     t.string "iata"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["name", "iata", "city"], name: "index_airports_on_name_and_iata_and_city", unique: true
   end
 
 end
