@@ -6,19 +6,19 @@ default: &default
 development:
   <<: *default
   database: external_ruby_camp_development
-  username: postgres
+  username: jornunez
   host: localhost
   port: 5432
   
 test:
   <<: *default
   database: external_ruby_camp_test
-  username: postgres
-  host: postgres
+  username: jornunez
+  host: localhost
   port: 5432
 
 production:
   <<: *default
   database: external_ruby_camp_production
-  username: jnunez
+  username: jornunez
   password: <%= ENV['EXTERNAL_RUBY_CAMP_PRODUCTION'] %>
