@@ -65,4 +65,4 @@ The application should display real flight availability, you choose how (grouped
 1. Create DB -> `$ rails db:create` 
 2. Migrate DB -> `$ rails db:migrate` 
 3. Create default app state -> `$ rails db_seeds:load_airports`
-4. Install dependencies -> `$ bundle install && rails start`
+4. Install dependencies -> `$ bundle install && rails server`
