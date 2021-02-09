@@ -12,6 +12,9 @@ Style/Documentation:
 Layout/LineLength:
   Max: 120
 
+Layout/EmptyLinesAroundAccessModifier:
+  EnforcedStyle: only_before
+
 Style/FrozenStringLiteralComment:
   Enabled: false
 

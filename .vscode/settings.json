@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 2,
+    "prettier.arrowParens": "always",
+    "prettier.proseWrap": "always",
+    "prettier.requireConfig": true,
+    "prettier.singleQuote": true,
+    "ruby.format": "rubocop",
+}
