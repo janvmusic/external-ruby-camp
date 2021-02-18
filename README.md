@@ -43,7 +43,7 @@ The application should display real flight availability, you choose how (grouped
   - Linux: `$ apt-get install postgresql`
 
 2. Install Ruby using (rvm)
-  - `$ rvm install 2.6.3`
+  - `$ rvm install 2.7.2`
 
 3. Install Bundler
   - `$ gem install bundler`
@@ -65,4 +65,11 @@ The application should display real flight availability, you choose how (grouped
 1. Create DB -> `$ rails db:create` 
 2. Migrate DB -> `$ rails db:migrate` 
 3. Create default app state -> `$ rails db_seeds:load_airports`
+   - For tests run: `$ rails db_seeds:load_airports RAILS_ENV='test'`
 4. Install dependencies -> `$ bundle install && rails server`
+
+### Endpoints
+- Airports: 
+  a) City `/api/v1/airports?search={city}`
+  b) Iata `/api/v1/airports?search={city}`
+  b) Country `/api/v1/airports?search={city}`

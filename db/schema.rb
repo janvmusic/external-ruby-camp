@@ -22,7 +22,7 @@ ActiveRecord::Schema.define(version: 2021_02_06_194609) do
     t.string "iata"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.index ["name", "iata", "city"], name: "index_airports_on_name_and_iata_and_city", unique: true
+    t.index ["name", "iata", "city", "country"], name: "index_airports_on_name_and_iata_and_city_and_country", unique: true
   end
 
 end

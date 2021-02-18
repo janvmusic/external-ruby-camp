@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.7.1'
+ruby '2.7.2'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
@@ -14,6 +14,12 @@ group :development, :test do
   gem 'pry-rescue'
   gem 'pry-stack_explorer'
   gem 'rspec-rails'
+end
+
+group :test do
+  gem 'database_cleaner'
+  gem 'factory_bot_rails'
+  gem 'ffaker'
 end
 
 group :development do

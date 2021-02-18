@@ -1,3 +1,7 @@
 Rails.application.routes.draw do
-  post 'airport', to: 'airport#search_airports' 
+  namespace :api do
+    namespace :v1 do
+      get 'airports', to: 'airports#search_airports' 
+    end
+  end
 end
