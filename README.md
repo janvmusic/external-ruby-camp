@@ -71,5 +71,6 @@ The application should display real flight availability, you choose how (grouped
 ### Endpoints
 - Airports: 
   a) City `/api/v1/airports?search={city}`
-  b) Iata `/api/v1/airports?search={city}`
-  b) Country `/api/v1/airports?search={city}`
+  b) Iata `/api/v1/airports?search={iata}`
+  c) Name `/api/v1/airports?search={name}`
+  d) Country `/api/v1/airports?search={country}`
