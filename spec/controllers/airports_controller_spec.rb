@@ -1,10 +1,16 @@
 require 'rails_helper'
 
 RSpec.describe Api::V1::AirportsController, type: :api do
-  let!(:cuu_airport) { create(:airport, iata: 'CUU', city: 'Chihuahua', name: 'Chihuahua Airport', country: 'Mexico') }
-  let!(:cun_airport) { create(:airport, iata: 'CUN', city: 'Chihuahua', name: 'Cancun Airport',    country: 'Mexico') }
-  let!(:jfk_airport) { create(:airport, iata: 'JFK', city: 'New York',  name: 'John F. Keneddy',   country: 'USA') }
-  let!(:lga_airport) { create(:airport, iata: 'JFK', city: 'New York',  name: 'La Guardia',        country: 'USA') }
+  let!(:jfk_airport) { create(:airport, iata: 'JFK', city: 'New York',  country: 'USA',    name: 'John F. Keneddy') }
+  let!(:lga_airport) { create(:airport, iata: 'LGA', city: 'New York',  country: 'USA',    name: 'La Guardia') }
+  let!(:cuu_airport) { create(:airport, iata: 'CUU', city: 'Chihuahua', country: 'Mexico', name: 'General Roberto Fierro Villalobos International Airport') }
+  let!(:cvm_airport) { create(:airport, iata: 'CVM', city: 'Victoria',  country: 'Mexico', name: 'General Pedro Jose Mendez International Airport') }
+  let!(:dgo_airport) { create(:airport, iata: 'DGO', city: 'Durango',   country: 'Mexico', name: 'General Guadalupe Victoria International Airport') }
+  let!(:cun_airport) { create(:airport, iata: 'CUN', city: 'Cancun',    country: 'Mexico', name: 'Cancun Airport') }
+
+  let!(:mx_airport) { create(:airport, country: 'Mexico') }
+  let!(:mx2_airport) { create(:airport, country: 'Mexico') }
+  let!(:mx3_airport) { create(:airport, country: 'Mexico') }
 
   context 'GET airports' do
     it 'search by iata' do
@@ -59,14 +65,14 @@ RSpec.describe Api::V1::AirportsController, type: :api do
       get '/api/v1/airports?search=Mexico'
 
       expect(response_status_code).to eq(200)
-      expect(response_body.count).to  eq(2)
+      expect(response_body.count).to  eq(5)
     end
 
     it 'search by country case insensitive' do
       get '/api/v1/airports?search=mexico'
 
       expect(response_status_code).to eq(200)
-      expect(response_body.count).to  eq(2)
+      expect(response_body.count).to  eq(5)
     end
 
     it 'search by name' do
@@ -79,6 +85,20 @@ RSpec.describe Api::V1::AirportsController, type: :api do
       expect(response_body.first['iata']).to    eq(lga_airport.iata)
       expect(response_body.first['city']).to    eq(lga_airport.city)
       expect(response_body.first['country']).to eq(lga_airport.country)
+    end
+
+    it 'search airports by name' do
+      get '/api/v1/airports?search=General'
+
+      expect(response_status_code).to eq(200)
+      expect(response_body.count).to  eq(3)
+    end
+
+    it 'search airports by name insensitive' do
+      get '/api/v1/airports?search=general'
+
+      expect(response_status_code).to eq(200)
+      expect(response_body.count).to  eq(3)
     end
   end
 

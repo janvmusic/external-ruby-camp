@@ -3,6 +3,6 @@ FactoryBot.define do
     name    { FFaker::Name.name }
     city    { FFaker::Address.city }
     country { FFaker::Address.country }
-    iata    { 'CUU' }
+    iata    { FFaker::Lorem.characters(3) }
   end
 end
