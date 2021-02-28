@@ -1,0 +1,5742 @@
+{
+  "legs": [
+    {
+      "id": "LHR-LAX:AF3666~11:AF2644~11:0",
+      "departureTime": "10:45",
+      "arrivalTime": "21:44",
+      "duration": "18h 59m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "JFK"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 645,
+      "arrivalTimeMinutes": 1304,
+      "departureDateTime": "2021-10-11T10:45:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T21:44:00.000-07:00",
+      "stopoverDurationMinutes": 255,
+      "durationMinutes": 1139,
+      "overnight": false,
+      "stopoverDuration": "04h 15m",
+      "durationDays": 0,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 495,
+          "stopoverDurationMinutes": 255,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "JFK",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "AF3666",
+          "departureDateTime": "2021-10-11T10:45:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T14:00:00.000-04:00"
+        },
+        {
+          "durationMinutes": 389,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "JFK",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "AF2644",
+          "departureDateTime": "2021-10-11T18:15:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T21:44:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 725.57
+    },
+    {
+      "id": "LHR-LAX:AF1181~11:AF72~12:0",
+      "departureTime": "19:45",
+      "arrivalTime": "16:05",
+      "duration": "28h 20m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 1185,
+      "arrivalTimeMinutes": 965,
+      "departureDateTime": "2021-10-11T19:45:00.000+01:00",
+      "arrivalDateTime": "2021-10-12T16:05:00.000-07:00",
+      "stopoverDurationMinutes": 920,
+      "durationMinutes": 1700,
+      "overnight": true,
+      "stopoverDuration": "15h 20m",
+      "durationDays": 1,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 920,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1181",
+          "departureDateTime": "2021-10-11T19:45:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T22:00:00.000+02:00"
+        },
+        {
+          "durationMinutes": 705,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF72",
+          "departureDateTime": "2021-10-12T13:20:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T16:05:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 593.33
+    },
+    {
+      "id": "LHR-LAX:AF1281~11:AF72~12:0",
+      "departureTime": "17:35",
+      "arrivalTime": "16:05",
+      "duration": "30h 30m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 1055,
+      "arrivalTimeMinutes": 965,
+      "departureDateTime": "2021-10-11T17:35:00.000+01:00",
+      "arrivalDateTime": "2021-10-12T16:05:00.000-07:00",
+      "stopoverDurationMinutes": 1045,
+      "durationMinutes": 1830,
+      "overnight": true,
+      "stopoverDuration": "17h 25m",
+      "durationDays": 1,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 80,
+          "stopoverDurationMinutes": 1045,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "A5",
+          "cabin": "economy",
+          "designatorCode": "AF1281",
+          "departureDateTime": "2021-10-11T17:35:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T19:55:00.000+02:00"
+        },
+        {
+          "durationMinutes": 705,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF72",
+          "departureDateTime": "2021-10-12T13:20:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T16:05:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "A5"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 563.83
+    },
+    {
+      "id": "LHR-LAX:AF1681~11:AF1054~12:SU100~13:B6623~13:0",
+      "departureTime": "09:00",
+      "arrivalTime": "19:47",
+      "duration": "66h 47m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "SU",
+        "B6",
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG",
+        "SVO",
+        "JFK"
+      ],
+      "allianceCodes": [
+        "sky_team",
+        "lcc"
+      ],
+      "stopoversCount": 3,
+      "departureTimeMinutes": 540,
+      "arrivalTimeMinutes": 1187,
+      "departureDateTime": "2021-10-11T09:00:00.000+01:00",
+      "arrivalDateTime": "2021-10-13T19:47:00.000-07:00",
+      "stopoverDurationMinutes": 2730,
+      "durationMinutes": 4007,
+      "overnight": true,
+      "stopoverDuration": "45h 30m",
+      "durationDays": 2,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 85,
+          "stopoverDurationMinutes": 1185,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1681",
+          "departureDateTime": "2021-10-11T09:00:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T11:25:00.000+02:00"
+        },
+        {
+          "durationMinutes": 225,
+          "stopoverDurationMinutes": 1285,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "SVO",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1054",
+          "departureDateTime": "2021-10-12T07:10:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T11:55:00.000+03:00"
+        },
+        {
+          "durationMinutes": 595,
+          "stopoverDurationMinutes": 260,
+          "departureAirportCode": "SVO",
+          "arrivalAirportCode": "JFK",
+          "airlineCode": "SU",
+          "cabin": "economy",
+          "designatorCode": "SU100",
+          "departureDateTime": "2021-10-13T09:20:00.000+03:00",
+          "arrivalDateTime": "2021-10-13T12:15:00.000-04:00"
+        },
+        {
+          "durationMinutes": 372,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "JFK",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "B6",
+          "cabin": "economy",
+          "designatorCode": "B6623",
+          "departureDateTime": "2021-10-13T16:35:00.000-04:00",
+          "arrivalDateTime": "2021-10-13T19:47:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "MORE_THAN_ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 62.700012
+    },
+    {
+      "id": "LHR-LAX:KL1028~11:KL903~12:SU106~13:0",
+      "departureTime": "20:55",
+      "arrivalTime": "14:15",
+      "duration": "49h 20m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "SU",
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "AMS",
+        "SVO"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 2,
+      "departureTimeMinutes": 1255,
+      "arrivalTimeMinutes": 855,
+      "departureDateTime": "2021-10-11T20:55:00.000+01:00",
+      "arrivalDateTime": "2021-10-13T14:15:00.000-07:00",
+      "stopoverDurationMinutes": 1960,
+      "durationMinutes": 2960,
+      "overnight": true,
+      "stopoverDuration": "32h 40m",
+      "durationDays": 2,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 70,
+          "stopoverDurationMinutes": 765,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "AMS",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "WA",
+          "cabin": "economy",
+          "designatorCode": "KL1028",
+          "departureDateTime": "2021-10-11T20:55:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T23:05:00.000+02:00"
+        },
+        {
+          "durationMinutes": 195,
+          "stopoverDurationMinutes": 1195,
+          "departureAirportCode": "AMS",
+          "arrivalAirportCode": "SVO",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL903",
+          "departureDateTime": "2021-10-12T11:50:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T16:05:00.000+03:00"
+        },
+        {
+          "durationMinutes": 735,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "SVO",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "SU",
+          "cabin": "economy",
+          "designatorCode": "SU106",
+          "departureDateTime": "2021-10-13T12:00:00.000+03:00",
+          "arrivalDateTime": "2021-10-13T14:15:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "WA"
+      ],
+      "stopoverCode": "MORE_THAN_ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 291.5
+    },
+    {
+      "id": "LHR-LAX:KL1002~11:KL603~11:0",
+      "departureTime": "08:40",
+      "arrivalTime": "14:55",
+      "duration": "14h 15m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "AMS"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 520,
+      "arrivalTimeMinutes": 895,
+      "departureDateTime": "2021-10-11T08:40:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T14:55:00.000-07:00",
+      "stopoverDurationMinutes": 105,
+      "durationMinutes": 855,
+      "overnight": false,
+      "stopoverDuration": "01h 45m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 80,
+          "stopoverDurationMinutes": 105,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "AMS",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL1002",
+          "departureDateTime": "2021-10-11T08:40:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T11:00:00.000+02:00"
+        },
+        {
+          "durationMinutes": 670,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "AMS",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL603",
+          "departureDateTime": "2021-10-11T12:45:00.000+02:00",
+          "arrivalDateTime": "2021-10-11T14:55:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 784.5
+    },
+    {
+      "id": "LHR-LAX:AF1181~11:AF1054~12:SU100~13:B6623~13:0",
+      "departureTime": "19:45",
+      "arrivalTime": "19:47",
+      "duration": "56h 02m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "SU",
+        "B6",
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG",
+        "SVO",
+        "JFK"
+      ],
+      "allianceCodes": [
+        "sky_team",
+        "lcc"
+      ],
+      "stopoversCount": 3,
+      "departureTimeMinutes": 1185,
+      "arrivalTimeMinutes": 1187,
+      "departureDateTime": "2021-10-11T19:45:00.000+01:00",
+      "arrivalDateTime": "2021-10-13T19:47:00.000-07:00",
+      "stopoverDurationMinutes": 2095,
+      "durationMinutes": 3362,
+      "overnight": true,
+      "stopoverDuration": "34h 55m",
+      "durationDays": 2,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 550,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1181",
+          "departureDateTime": "2021-10-11T19:45:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T22:00:00.000+02:00"
+        },
+        {
+          "durationMinutes": 225,
+          "stopoverDurationMinutes": 1285,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "SVO",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1054",
+          "departureDateTime": "2021-10-12T07:10:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T11:55:00.000+03:00"
+        },
+        {
+          "durationMinutes": 595,
+          "stopoverDurationMinutes": 260,
+          "departureAirportCode": "SVO",
+          "arrivalAirportCode": "JFK",
+          "airlineCode": "SU",
+          "cabin": "economy",
+          "designatorCode": "SU100",
+          "departureDateTime": "2021-10-13T09:20:00.000+03:00",
+          "arrivalDateTime": "2021-10-13T12:15:00.000-04:00"
+        },
+        {
+          "durationMinutes": 372,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "JFK",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "B6",
+          "cabin": "economy",
+          "designatorCode": "B6623",
+          "departureDateTime": "2021-10-13T16:35:00.000-04:00",
+          "arrivalDateTime": "2021-10-13T19:47:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "MORE_THAN_ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 105.70001
+    },
+    {
+      "id": "LHR-LAX:KL6139~11:KL5100~11:0",
+      "departureTime": "12:50",
+      "arrivalTime": "20:58",
+      "duration": "16h 08m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "ATL"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 770,
+      "arrivalTimeMinutes": 1258,
+      "departureDateTime": "2021-10-11T12:50:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T20:58:00.000-07:00",
+      "stopoverDurationMinutes": 104,
+      "durationMinutes": 968,
+      "overnight": false,
+      "stopoverDuration": "01h 44m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 561,
+          "stopoverDurationMinutes": 104,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "ATL",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL6139",
+          "departureDateTime": "2021-10-11T12:50:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T17:11:00.000-04:00"
+        },
+        {
+          "durationMinutes": 303,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "ATL",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL5100",
+          "departureDateTime": "2021-10-11T18:55:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T20:58:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 764.8
+    },
+    {
+      "id": "LHR-LAX:KL6187~11:KL7080~11:0",
+      "departureTime": "09:40",
+      "arrivalTime": "19:20",
+      "duration": "17h 40m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "BOS"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 580,
+      "arrivalTimeMinutes": 1160,
+      "departureDateTime": "2021-10-11T09:40:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T19:20:00.000-07:00",
+      "stopoverDurationMinutes": 200,
+      "durationMinutes": 1060,
+      "overnight": false,
+      "stopoverDuration": "03h 20m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 465,
+          "stopoverDurationMinutes": 200,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "BOS",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL6187",
+          "departureDateTime": "2021-10-11T09:40:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T12:25:00.000-04:00"
+        },
+        {
+          "durationMinutes": 395,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "BOS",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL7080",
+          "departureDateTime": "2021-10-11T15:45:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T19:20:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 767.33
+    },
+    {
+      "id": "LHR-LAX:KL6082~11:KL5036~11:0",
+      "departureTime": "09:20",
+      "arrivalTime": "19:52",
+      "duration": "18h 32m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "DTW"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 560,
+      "arrivalTimeMinutes": 1192,
+      "departureDateTime": "2021-10-11T09:20:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T19:52:00.000-07:00",
+      "stopoverDurationMinutes": 287,
+      "durationMinutes": 1112,
+      "overnight": false,
+      "stopoverDuration": "04h 47m",
+      "durationDays": 0,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 520,
+          "stopoverDurationMinutes": 287,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "DTW",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL6082",
+          "departureDateTime": "2021-10-11T09:20:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T13:00:00.000-04:00"
+        },
+        {
+          "durationMinutes": 305,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "DTW",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL5036",
+          "departureDateTime": "2021-10-11T17:47:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T19:52:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 756.03
+    },
+    {
+      "id": "LHR-LAX:KL6102~11:KL5620~11:0",
+      "departureTime": "10:45",
+      "arrivalTime": "20:20",
+      "duration": "17h 35m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "JFK"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 645,
+      "arrivalTimeMinutes": 1220,
+      "departureDateTime": "2021-10-11T10:45:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T20:20:00.000-07:00",
+      "stopoverDurationMinutes": 175,
+      "durationMinutes": 1055,
+      "overnight": false,
+      "stopoverDuration": "02h 55m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 495,
+          "stopoverDurationMinutes": 175,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "JFK",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL6102",
+          "departureDateTime": "2021-10-11T10:45:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T14:00:00.000-04:00"
+        },
+        {
+          "durationMinutes": 385,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "JFK",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL5620",
+          "departureDateTime": "2021-10-11T16:55:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T20:20:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 761.67
+    },
+    {
+      "id": "LHR-LAX:AF1381~11:AF66~11:0",
+      "departureTime": "06:20",
+      "arrivalTime": "12:55",
+      "duration": "14h 35m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 380,
+      "arrivalTimeMinutes": 775,
+      "departureDateTime": "2021-10-11T06:20:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T12:55:00.000-07:00",
+      "stopoverDurationMinutes": 100,
+      "durationMinutes": 875,
+      "overnight": false,
+      "stopoverDuration": "01h 40m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 100,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1381",
+          "departureDateTime": "2021-10-11T06:20:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T08:35:00.000+02:00"
+        },
+        {
+          "durationMinutes": 700,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF66",
+          "departureDateTime": "2021-10-11T10:15:00.000+02:00",
+          "arrivalDateTime": "2021-10-11T12:55:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 758.33
+    },
+    {
+      "id": "LHR-LAX:AF9301~11:AF3462~11:0",
+      "departureTime": "09:20",
+      "arrivalTime": "17:57",
+      "duration": "16h 37m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "DTW"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 560,
+      "arrivalTimeMinutes": 1077,
+      "departureDateTime": "2021-10-11T09:20:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T17:57:00.000-07:00",
+      "stopoverDurationMinutes": 170,
+      "durationMinutes": 997,
+      "overnight": false,
+      "stopoverDuration": "02h 50m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 520,
+          "stopoverDurationMinutes": 170,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "DTW",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "AF9301",
+          "departureDateTime": "2021-10-11T09:20:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T13:00:00.000-04:00"
+        },
+        {
+          "durationMinutes": 307,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "DTW",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "AF3462",
+          "departureDateTime": "2021-10-11T15:50:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T17:57:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 745.53
+    },
+    {
+      "id": "LHR-LAX:KL1032~11:KL903~12:SU102~13:B61623~13:0",
+      "departureTime": "20:25",
+      "arrivalTime": "23:42",
+      "duration": "59h 17m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "SU",
+        "B6",
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "AMS",
+        "SVO",
+        "JFK"
+      ],
+      "allianceCodes": [
+        "sky_team",
+        "lcc"
+      ],
+      "stopoversCount": 3,
+      "departureTimeMinutes": 1225,
+      "arrivalTimeMinutes": 1422,
+      "departureDateTime": "2021-10-11T20:25:00.000+01:00",
+      "arrivalDateTime": "2021-10-13T23:42:00.000-07:00",
+      "stopoverDurationMinutes": 2300,
+      "durationMinutes": 3557,
+      "overnight": true,
+      "stopoverDuration": "38h 20m",
+      "durationDays": 2,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 790,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "AMS",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "WA",
+          "cabin": "economy",
+          "designatorCode": "KL1032",
+          "departureDateTime": "2021-10-11T20:25:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T22:40:00.000+02:00"
+        },
+        {
+          "durationMinutes": 195,
+          "stopoverDurationMinutes": 1330,
+          "departureAirportCode": "AMS",
+          "arrivalAirportCode": "SVO",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL903",
+          "departureDateTime": "2021-10-12T11:50:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T16:05:00.000+03:00"
+        },
+        {
+          "durationMinutes": 615,
+          "stopoverDurationMinutes": 180,
+          "departureAirportCode": "SVO",
+          "arrivalAirportCode": "JFK",
+          "airlineCode": "SU",
+          "cabin": "economy",
+          "designatorCode": "SU102",
+          "departureDateTime": "2021-10-13T14:15:00.000+03:00",
+          "arrivalDateTime": "2021-10-13T17:30:00.000-04:00"
+        },
+        {
+          "durationMinutes": 372,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "JFK",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "B6",
+          "cabin": "economy",
+          "designatorCode": "B61623",
+          "departureDateTime": "2021-10-13T20:30:00.000-04:00",
+          "arrivalDateTime": "2021-10-13T23:42:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "WA"
+      ],
+      "stopoverCode": "MORE_THAN_ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": true,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 71.20001
+    },
+    {
+      "id": "LHR-LAX:KL6111~11:KL7130~11:0",
+      "departureTime": "12:55",
+      "arrivalTime": "19:43",
+      "duration": "14h 48m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "MSP"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 775,
+      "arrivalTimeMinutes": 1183,
+      "departureDateTime": "2021-10-11T12:55:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T19:43:00.000-07:00",
+      "stopoverDurationMinutes": 95,
+      "durationMinutes": 888,
+      "overnight": false,
+      "stopoverDuration": "01h 35m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 545,
+          "stopoverDurationMinutes": 95,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "MSP",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL6111",
+          "departureDateTime": "2021-10-11T12:55:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T16:00:00.000-05:00"
+        },
+        {
+          "durationMinutes": 248,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "MSP",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL7130",
+          "departureDateTime": "2021-10-11T17:35:00.000-05:00",
+          "arrivalDateTime": "2021-10-11T19:43:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 774.63
+    },
+    {
+      "id": "LHR-LAX:AF1781~11:AF66~12:0",
+      "departureTime": "15:50",
+      "arrivalTime": "12:55",
+      "duration": "29h 05m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 950,
+      "arrivalTimeMinutes": 775,
+      "departureDateTime": "2021-10-11T15:50:00.000+01:00",
+      "arrivalDateTime": "2021-10-12T12:55:00.000-07:00",
+      "stopoverDurationMinutes": 970,
+      "durationMinutes": 1745,
+      "overnight": true,
+      "stopoverDuration": "16h 10m",
+      "durationDays": 1,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 970,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1781",
+          "departureDateTime": "2021-10-11T15:50:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T18:05:00.000+02:00"
+        },
+        {
+          "durationMinutes": 700,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF66",
+          "departureDateTime": "2021-10-12T10:15:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T12:55:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 582
+    },
+    {
+      "id": "LHR-LAX:KL1000~11:KL603~11:0",
+      "departureTime": "06:30",
+      "arrivalTime": "14:55",
+      "duration": "16h 25m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "AMS"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 390,
+      "arrivalTimeMinutes": 895,
+      "departureDateTime": "2021-10-11T06:30:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T14:55:00.000-07:00",
+      "stopoverDurationMinutes": 225,
+      "durationMinutes": 985,
+      "overnight": false,
+      "stopoverDuration": "03h 45m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 90,
+          "stopoverDurationMinutes": 225,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "AMS",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL1000",
+          "departureDateTime": "2021-10-11T06:30:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T09:00:00.000+02:00"
+        },
+        {
+          "durationMinutes": 670,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "AMS",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL603",
+          "departureDateTime": "2021-10-11T12:45:00.000+02:00",
+          "arrivalDateTime": "2021-10-11T14:55:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 778.33
+    },
+    {
+      "id": "LHR-LAX:AF1281~11:AF66~12:0",
+      "departureTime": "17:35",
+      "arrivalTime": "12:55",
+      "duration": "27h 20m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 1055,
+      "arrivalTimeMinutes": 775,
+      "departureDateTime": "2021-10-11T17:35:00.000+01:00",
+      "arrivalDateTime": "2021-10-12T12:55:00.000-07:00",
+      "stopoverDurationMinutes": 860,
+      "durationMinutes": 1640,
+      "overnight": true,
+      "stopoverDuration": "14h 20m",
+      "durationDays": 1,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 80,
+          "stopoverDurationMinutes": 860,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "A5",
+          "cabin": "economy",
+          "designatorCode": "AF1281",
+          "departureDateTime": "2021-10-11T17:35:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T19:55:00.000+02:00"
+        },
+        {
+          "durationMinutes": 700,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF66",
+          "departureDateTime": "2021-10-12T10:15:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T12:55:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "A5"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 607.33
+    },
+    {
+      "id": "LHR-LAX:AF1781~11:AF1054~12:SU100~13:B6623~13:0",
+      "departureTime": "15:50",
+      "arrivalTime": "19:47",
+      "duration": "59h 57m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "SU",
+        "B6",
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG",
+        "SVO",
+        "JFK"
+      ],
+      "allianceCodes": [
+        "sky_team",
+        "lcc"
+      ],
+      "stopoversCount": 3,
+      "departureTimeMinutes": 950,
+      "arrivalTimeMinutes": 1187,
+      "departureDateTime": "2021-10-11T15:50:00.000+01:00",
+      "arrivalDateTime": "2021-10-13T19:47:00.000-07:00",
+      "stopoverDurationMinutes": 2330,
+      "durationMinutes": 3597,
+      "overnight": true,
+      "stopoverDuration": "38h 50m",
+      "durationDays": 2,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 785,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1781",
+          "departureDateTime": "2021-10-11T15:50:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T18:05:00.000+02:00"
+        },
+        {
+          "durationMinutes": 225,
+          "stopoverDurationMinutes": 1285,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "SVO",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1054",
+          "departureDateTime": "2021-10-12T07:10:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T11:55:00.000+03:00"
+        },
+        {
+          "durationMinutes": 595,
+          "stopoverDurationMinutes": 260,
+          "departureAirportCode": "SVO",
+          "arrivalAirportCode": "JFK",
+          "airlineCode": "SU",
+          "cabin": "economy",
+          "designatorCode": "SU100",
+          "departureDateTime": "2021-10-13T09:20:00.000+03:00",
+          "arrivalDateTime": "2021-10-13T12:15:00.000-04:00"
+        },
+        {
+          "durationMinutes": 372,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "JFK",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "B6",
+          "cabin": "economy",
+          "designatorCode": "B6623",
+          "departureDateTime": "2021-10-13T16:35:00.000-04:00",
+          "arrivalDateTime": "2021-10-13T19:47:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "MORE_THAN_ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 90.03
+    },
+    {
+      "id": "LHR-LAX:AF1181~11:AF1054~12:SU100~13:AS407~13:0",
+      "departureTime": "19:45",
+      "arrivalTime": "20:14",
+      "duration": "56h 29m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "SU",
+        "AS",
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG",
+        "SVO",
+        "JFK"
+      ],
+      "allianceCodes": [
+        "",
+        "sky_team"
+      ],
+      "stopoversCount": 3,
+      "departureTimeMinutes": 1185,
+      "arrivalTimeMinutes": 1214,
+      "departureDateTime": "2021-10-11T19:45:00.000+01:00",
+      "arrivalDateTime": "2021-10-13T20:14:00.000-07:00",
+      "stopoverDurationMinutes": 2115,
+      "durationMinutes": 3389,
+      "overnight": true,
+      "stopoverDuration": "35h 15m",
+      "durationDays": 2,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 550,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1181",
+          "departureDateTime": "2021-10-11T19:45:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T22:00:00.000+02:00"
+        },
+        {
+          "durationMinutes": 225,
+          "stopoverDurationMinutes": 1285,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "SVO",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1054",
+          "departureDateTime": "2021-10-12T07:10:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T11:55:00.000+03:00"
+        },
+        {
+          "durationMinutes": 595,
+          "stopoverDurationMinutes": 280,
+          "departureAirportCode": "SVO",
+          "arrivalAirportCode": "JFK",
+          "airlineCode": "SU",
+          "cabin": "economy",
+          "designatorCode": "SU100",
+          "departureDateTime": "2021-10-13T09:20:00.000+03:00",
+          "arrivalDateTime": "2021-10-13T12:15:00.000-04:00"
+        },
+        {
+          "durationMinutes": 379,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "JFK",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AS",
+          "cabin": "economy",
+          "designatorCode": "AS407",
+          "departureDateTime": "2021-10-13T16:55:00.000-04:00",
+          "arrivalDateTime": "2021-10-13T20:14:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "MORE_THAN_ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 121.899994
+    },
+    {
+      "id": "LHR-LAX:KL1028~11:KL903~12:SU102~13:B61623~13:0",
+      "departureTime": "20:55",
+      "arrivalTime": "23:42",
+      "duration": "58h 47m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "SU",
+        "B6",
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "AMS",
+        "SVO",
+        "JFK"
+      ],
+      "allianceCodes": [
+        "sky_team",
+        "lcc"
+      ],
+      "stopoversCount": 3,
+      "departureTimeMinutes": 1255,
+      "arrivalTimeMinutes": 1422,
+      "departureDateTime": "2021-10-11T20:55:00.000+01:00",
+      "arrivalDateTime": "2021-10-13T23:42:00.000-07:00",
+      "stopoverDurationMinutes": 2275,
+      "durationMinutes": 3527,
+      "overnight": true,
+      "stopoverDuration": "37h 55m",
+      "durationDays": 2,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 70,
+          "stopoverDurationMinutes": 765,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "AMS",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "WA",
+          "cabin": "economy",
+          "designatorCode": "KL1028",
+          "departureDateTime": "2021-10-11T20:55:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T23:05:00.000+02:00"
+        },
+        {
+          "durationMinutes": 195,
+          "stopoverDurationMinutes": 1330,
+          "departureAirportCode": "AMS",
+          "arrivalAirportCode": "SVO",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL903",
+          "departureDateTime": "2021-10-12T11:50:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T16:05:00.000+03:00"
+        },
+        {
+          "durationMinutes": 615,
+          "stopoverDurationMinutes": 180,
+          "departureAirportCode": "SVO",
+          "arrivalAirportCode": "JFK",
+          "airlineCode": "SU",
+          "cabin": "economy",
+          "designatorCode": "SU102",
+          "departureDateTime": "2021-10-13T14:15:00.000+03:00",
+          "arrivalDateTime": "2021-10-13T17:30:00.000-04:00"
+        },
+        {
+          "durationMinutes": 372,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "JFK",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "B6",
+          "cabin": "economy",
+          "designatorCode": "B61623",
+          "departureDateTime": "2021-10-13T20:30:00.000-04:00",
+          "arrivalDateTime": "2021-10-13T23:42:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "WA"
+      ],
+      "stopoverCode": "MORE_THAN_ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": true,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 73.20001
+    },
+    {
+      "id": "LHR-LAX:KL6082~11:KL6248~11:0",
+      "departureTime": "09:20",
+      "arrivalTime": "17:57",
+      "duration": "16h 37m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "DTW"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 560,
+      "arrivalTimeMinutes": 1077,
+      "departureDateTime": "2021-10-11T09:20:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T17:57:00.000-07:00",
+      "stopoverDurationMinutes": 170,
+      "durationMinutes": 997,
+      "overnight": false,
+      "stopoverDuration": "02h 50m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 520,
+          "stopoverDurationMinutes": 170,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "DTW",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL6082",
+          "departureDateTime": "2021-10-11T09:20:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T13:00:00.000-04:00"
+        },
+        {
+          "durationMinutes": 307,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "DTW",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "KL6248",
+          "departureDateTime": "2021-10-11T15:50:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T17:57:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 771.53
+    },
+    {
+      "id": "LHR-LAX:AF1181~11:AF66~12:0",
+      "departureTime": "19:45",
+      "arrivalTime": "12:55",
+      "duration": "25h 10m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 1185,
+      "arrivalTimeMinutes": 775,
+      "departureDateTime": "2021-10-11T19:45:00.000+01:00",
+      "arrivalDateTime": "2021-10-12T12:55:00.000-07:00",
+      "stopoverDurationMinutes": 735,
+      "durationMinutes": 1510,
+      "overnight": true,
+      "stopoverDuration": "12h 15m",
+      "durationDays": 1,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 735,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1181",
+          "departureDateTime": "2021-10-11T19:45:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T22:00:00.000+02:00"
+        },
+        {
+          "durationMinutes": 700,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF66",
+          "departureDateTime": "2021-10-12T10:15:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T12:55:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 636.83
+    },
+    {
+      "id": "LHR-LAX:KL1032~11:KL903~12:SU106~13:0",
+      "departureTime": "20:25",
+      "arrivalTime": "14:15",
+      "duration": "49h 50m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "SU",
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "AMS",
+        "SVO"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 2,
+      "departureTimeMinutes": 1225,
+      "arrivalTimeMinutes": 855,
+      "departureDateTime": "2021-10-11T20:25:00.000+01:00",
+      "arrivalDateTime": "2021-10-13T14:15:00.000-07:00",
+      "stopoverDurationMinutes": 1985,
+      "durationMinutes": 2990,
+      "overnight": true,
+      "stopoverDuration": "33h 05m",
+      "durationDays": 2,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 790,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "AMS",
+          "airlineCode": "KL",
+          "operatingAirlineCode": "WA",
+          "cabin": "economy",
+          "designatorCode": "KL1032",
+          "departureDateTime": "2021-10-11T20:25:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T22:40:00.000+02:00"
+        },
+        {
+          "durationMinutes": 195,
+          "stopoverDurationMinutes": 1195,
+          "departureAirportCode": "AMS",
+          "arrivalAirportCode": "SVO",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL903",
+          "departureDateTime": "2021-10-12T11:50:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T16:05:00.000+03:00"
+        },
+        {
+          "durationMinutes": 735,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "SVO",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "SU",
+          "cabin": "economy",
+          "designatorCode": "SU106",
+          "departureDateTime": "2021-10-13T12:00:00.000+03:00",
+          "arrivalDateTime": "2021-10-13T14:15:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "WA"
+      ],
+      "stopoverCode": "MORE_THAN_ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 289.5
+    },
+    {
+      "id": "LHR-LAX:AF3624~11:AF2620~11:0",
+      "departureTime": "12:50",
+      "arrivalTime": "23:00",
+      "duration": "18h 10m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "ATL"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 770,
+      "arrivalTimeMinutes": 1380,
+      "departureDateTime": "2021-10-11T12:50:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T23:00:00.000-07:00",
+      "stopoverDurationMinutes": 229,
+      "durationMinutes": 1090,
+      "overnight": false,
+      "stopoverDuration": "03h 49m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 561,
+          "stopoverDurationMinutes": 229,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "ATL",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "AF3624",
+          "departureDateTime": "2021-10-11T12:50:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T17:11:00.000-04:00"
+        },
+        {
+          "durationMinutes": 300,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "ATL",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "AF2620",
+          "departureDateTime": "2021-10-11T21:00:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T23:00:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": true,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 721.33
+    },
+    {
+      "id": "LHR-LAX:AF1781~11:AF72~12:0",
+      "departureTime": "15:50",
+      "arrivalTime": "16:05",
+      "duration": "32h 15m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "CDG"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 950,
+      "arrivalTimeMinutes": 965,
+      "departureDateTime": "2021-10-11T15:50:00.000+01:00",
+      "arrivalDateTime": "2021-10-12T16:05:00.000-07:00",
+      "stopoverDurationMinutes": 1155,
+      "durationMinutes": 1935,
+      "overnight": true,
+      "stopoverDuration": "19h 15m",
+      "durationDays": 1,
+      "longStopover": true,
+      "segments": [
+        {
+          "durationMinutes": 75,
+          "stopoverDurationMinutes": 1155,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "CDG",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF1781",
+          "departureDateTime": "2021-10-11T15:50:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T18:05:00.000+02:00"
+        },
+        {
+          "durationMinutes": 705,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "CDG",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "cabin": "economy",
+          "designatorCode": "AF72",
+          "departureDateTime": "2021-10-12T13:20:00.000+02:00",
+          "arrivalDateTime": "2021-10-12T16:05:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 538.5
+    },
+    {
+      "id": "LHR-LAX:AF3624~11:AF2726~11:0",
+      "departureTime": "12:50",
+      "arrivalTime": "20:58",
+      "duration": "16h 08m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "AF"
+      ],
+      "stopoverAirportCodes": [
+        "ATL"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 770,
+      "arrivalTimeMinutes": 1258,
+      "departureDateTime": "2021-10-11T12:50:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T20:58:00.000-07:00",
+      "stopoverDurationMinutes": 104,
+      "durationMinutes": 968,
+      "overnight": false,
+      "stopoverDuration": "01h 44m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 561,
+          "stopoverDurationMinutes": 104,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "ATL",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "AF3624",
+          "departureDateTime": "2021-10-11T12:50:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T17:11:00.000-04:00"
+        },
+        {
+          "durationMinutes": 303,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "ATL",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "AF",
+          "operatingAirlineCode": "DL",
+          "cabin": "economy",
+          "designatorCode": "AF2726",
+          "departureDateTime": "2021-10-11T18:55:00.000-04:00",
+          "arrivalDateTime": "2021-10-11T20:58:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [
+        "DL"
+      ],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": false,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 736.8
+    },
+    {
+      "id": "LHR-LAX:KL1000~11:KL601~11:0",
+      "departureTime": "06:30",
+      "arrivalTime": "11:55",
+      "duration": "13h 25m",
+      "departureAirportCode": "LHR",
+      "arrivalAirportCode": "LAX",
+      "airlineCodes": [
+        "KL"
+      ],
+      "stopoverAirportCodes": [
+        "AMS"
+      ],
+      "allianceCodes": [
+        "sky_team"
+      ],
+      "stopoversCount": 1,
+      "departureTimeMinutes": 390,
+      "arrivalTimeMinutes": 715,
+      "departureDateTime": "2021-10-11T06:30:00.000+01:00",
+      "arrivalDateTime": "2021-10-11T11:55:00.000-07:00",
+      "stopoverDurationMinutes": 50,
+      "durationMinutes": 805,
+      "overnight": false,
+      "stopoverDuration": "50m",
+      "durationDays": 0,
+      "longStopover": false,
+      "segments": [
+        {
+          "durationMinutes": 90,
+          "stopoverDurationMinutes": 50,
+          "departureAirportCode": "LHR",
+          "arrivalAirportCode": "AMS",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL1000",
+          "departureDateTime": "2021-10-11T06:30:00.000+01:00",
+          "arrivalDateTime": "2021-10-11T09:00:00.000+02:00"
+        },
+        {
+          "durationMinutes": 665,
+          "stopoverDurationMinutes": 0,
+          "departureAirportCode": "AMS",
+          "arrivalAirportCode": "LAX",
+          "airlineCode": "KL",
+          "cabin": "economy",
+          "designatorCode": "KL601",
+          "departureDateTime": "2021-10-11T09:50:00.000+02:00",
+          "arrivalDateTime": "2021-10-11T11:55:00.000-07:00"
+        }
+      ],
+      "operatingAirlineCodes": [],
+      "stopoverCode": "ONE_STOP",
+      "shortStopover": true,
+      "earlyDeparture": false,
+      "lateArrival": false,
+      "newAircraft": false,
+      "oldAircraft": true,
+      "highlyRatedCarrier": false,
+      "score": 773.67
+    }
+  ],
+  "search": {
+    "id": "28a1fb1e2ee939c2msr",
+    "cabin": "economy",
+    "adultsCount": 2,
+    "childrenCount": 0,
+    "infantsCount": 1,
+    "siteCode": "US",
+    "currencyCode": "USD",
+    "locale": "en",
+    "deviceType": "desktop",
+    "appType": "WEB_APP",
+    "createdAt": "2021-02-21T22:49:21.119Z",
+    "key": "[LHR:LAX:2021-10-11]~2~0~1~US~economy~desktop~WEB_APP",
+    "userCountryCode": "IT",
+    "legs": [
+      {
+        "id": "LHR:LAX:2021-10-11",
+        "outboundDate": "2021-10-11",
+        "departureAirportCode": "LHR",
+        "arrivalAirportCode": "LAX",
+        "departureCity": {
+          "code": "LON",
+          "name": "London",
+          "enName": "London",
+          "countryCode": "GB",
+          "countryName": "United Kingdom",
+          "countryEnName": "United Kingdom",
+          "worldRegionCode": "e",
+          "worldRegionName": "Europe",
+          "worldRegionEnName": "Europe"
+        },
+        "arrivalCity": {
+          "code": "LAX",
+          "name": "Los Angeles",
+          "enName": "Los Angeles",
+          "countryCode": "US",
+          "countryName": "United States",
+          "countryEnName": "United States",
+          "worldRegionCode": "n",
+          "worldRegionName": "North America",
+          "worldRegionEnName": "North America"
+        },
+        "departureAirport": {
+          "name": "London Heathrow Airport",
+          "code": "LHR",
+          "cityCode": "LON"
+        },
+        "arrivalAirport": {
+          "name": "Los Angeles International Airport",
+          "code": "LAX",
+          "cityCode": "LAX"
+        }
+      }
+    ]
+  },
+  "airlines": [
+    {
+      "name": "Aeroflot",
+      "code": "SU"
+    },
+    {
+      "name": "Air France",
+      "code": "AF"
+    },
+    {
+      "name": "Alaska Airlines",
+      "code": "AS"
+    },
+    {
+      "name": "Delta Air Lines",
+      "code": "DL"
+    },
+    {
+      "name": "HOP!",
+      "code": "A5"
+    },
+    {
+      "name": "JetBlue Airways",
+      "code": "B6"
+    },
+    {
+      "name": "KLM",
+      "code": "KL"
+    },
+    {
+      "name": "KLM Cityhopper",
+      "code": "WA"
+    }
+  ],
+  "airports": [
+    {
+      "name": "Amsterdam Airport",
+      "code": "AMS",
+      "cityCode": "AMS"
+    },
+    {
+      "name": "Atlanta Hartsfield-Jackson Intl Airport",
+      "code": "ATL",
+      "cityCode": "ATL"
+    },
+    {
+      "name": "Boston Logan International Airport",
+      "code": "BOS",
+      "cityCode": "BOS"
+    },
+    {
+      "name": "Detroit Wayne County",
+      "code": "DTW",
+      "cityCode": "DTT"
+    },
+    {
+      "name": "London Heathrow Airport",
+      "code": "LHR",
+      "cityCode": "LON"
+    },
+    {
+      "name": "Los Angeles International Airport",
+      "code": "LAX",
+      "cityCode": "LAX"
+    },
+    {
+      "name": "Minneapolis International Airport",
+      "code": "MSP",
+      "cityCode": "MSP"
+    },
+    {
+      "name": "Moscow Sheremetyevo International Airport",
+      "code": "SVO",
+      "cityCode": "MOW"
+    },
+    {
+      "name": "New York John F. Kennedy International Airport",
+      "code": "JFK",
+      "cityCode": "NYC"
+    },
+    {
+      "name": "Paris Charles de Gaulle Airport",
+      "code": "CDG",
+      "cityCode": "PAR"
+    }
+  ],
+  "cities": [
+    {
+      "code": "AMS",
+      "name": "Amsterdam",
+      "countryCode": "NL"
+    },
+    {
+      "code": "ATL",
+      "name": "Atlanta",
+      "countryCode": "US"
+    },
+    {
+      "code": "BOS",
+      "name": "Boston",
+      "countryCode": "US"
+    },
+    {
+      "code": "DTT",
+      "name": "Detroit",
+      "countryCode": "US"
+    },
+    {
+      "code": "LON",
+      "name": "London",
+      "countryCode": "GB"
+    },
+    {
+      "code": "LAX",
+      "name": "Los Angeles",
+      "countryCode": "US"
+    },
+    {
+      "code": "MSP",
+      "name": "Minneapolis",
+      "countryCode": "US"
+    },
+    {
+      "code": "MOW",
+      "name": "Moscow",
+      "countryCode": "RU"
+    },
+    {
+      "code": "NYC",
+      "name": "New York City",
+      "countryCode": "US"
+    },
+    {
+      "code": "PAR",
+      "name": "Paris",
+      "countryCode": "FR"
+    }
+  ],
+  "providers": [
+    {
+      "code": "airfrance.com",
+      "name": "Airfrance",
+      "type": "airline",
+      "instant": false,
+      "facilitatedBooking": false,
+      "wegoFare": false
+    },
+    {
+      "code": "city.travel",
+      "name": "Cityavel",
+      "type": "ota",
+      "instant": false,
+      "facilitatedBooking": false,
+      "wegoFare": false
+    },
+    {
+      "code": "klm.com",
+      "name": "KLM",
+      "type": "airline",
+      "instant": false,
+      "facilitatedBooking": false,
+      "wegoFare": false
+    }
+  ],
+  "countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "RU",
+      "name": "Russian Federation"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    }
+  ],
+  "trips": [
+    {
+      "id": "28a1fb1e2ee939c2msr:KL6111~11-KL7130~11",
+      "code": "KL6111~11-KL7130~11",
+      "legIds": [
+        "LHR-LAX:KL6111~11:KL7130~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1781~11-AF66~12",
+      "code": "AF1781~11-AF66~12",
+      "legIds": [
+        "LHR-LAX:AF1781~11:AF66~12:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL1000~11-KL601~11",
+      "code": "KL1000~11-KL601~11",
+      "legIds": [
+        "LHR-LAX:KL1000~11:KL601~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL1000~11-KL603~11",
+      "code": "KL1000~11-KL603~11",
+      "legIds": [
+        "LHR-LAX:KL1000~11:KL603~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL6082~11-KL6248~11",
+      "code": "KL6082~11-KL6248~11",
+      "legIds": [
+        "LHR-LAX:KL6082~11:KL6248~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF3666~11-AF2644~11",
+      "code": "AF3666~11-AF2644~11",
+      "legIds": [
+        "LHR-LAX:AF3666~11:AF2644~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1181~11-AF1054~12-SU100~13-AS407~13",
+      "code": "AF1181~11-AF1054~12-SU100~13-AS407~13",
+      "legIds": [
+        "LHR-LAX:AF1181~11:AF1054~12:SU100~13:AS407~13:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1281~11-AF72~12",
+      "code": "AF1281~11-AF72~12",
+      "legIds": [
+        "LHR-LAX:AF1281~11:AF72~12:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL1002~11-KL603~11",
+      "code": "KL1002~11-KL603~11",
+      "legIds": [
+        "LHR-LAX:KL1002~11:KL603~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1181~11-AF72~12",
+      "code": "AF1181~11-AF72~12",
+      "legIds": [
+        "LHR-LAX:AF1181~11:AF72~12:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF3624~11-AF2620~11",
+      "code": "AF3624~11-AF2620~11",
+      "legIds": [
+        "LHR-LAX:AF3624~11:AF2620~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF9301~11-AF3462~11",
+      "code": "AF9301~11-AF3462~11",
+      "legIds": [
+        "LHR-LAX:AF9301~11:AF3462~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL1032~11-KL903~12-SU102~13-B61623~13",
+      "code": "KL1032~11-KL903~12-SU102~13-B61623~13",
+      "legIds": [
+        "LHR-LAX:KL1032~11:KL903~12:SU102~13:B61623~13:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL6187~11-KL7080~11",
+      "code": "KL6187~11-KL7080~11",
+      "legIds": [
+        "LHR-LAX:KL6187~11:KL7080~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1681~11-AF1054~12-SU100~13-B6623~13",
+      "code": "AF1681~11-AF1054~12-SU100~13-B6623~13",
+      "legIds": [
+        "LHR-LAX:AF1681~11:AF1054~12:SU100~13:B6623~13:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL1032~11-KL903~12-SU106~13",
+      "code": "KL1032~11-KL903~12-SU106~13",
+      "legIds": [
+        "LHR-LAX:KL1032~11:KL903~12:SU106~13:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1781~11-AF1054~12-SU100~13-B6623~13",
+      "code": "AF1781~11-AF1054~12-SU100~13-B6623~13",
+      "legIds": [
+        "LHR-LAX:AF1781~11:AF1054~12:SU100~13:B6623~13:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1181~11-AF1054~12-SU100~13-B6623~13",
+      "code": "AF1181~11-AF1054~12-SU100~13-B6623~13",
+      "legIds": [
+        "LHR-LAX:AF1181~11:AF1054~12:SU100~13:B6623~13:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL1028~11-KL903~12-SU106~13",
+      "code": "KL1028~11-KL903~12-SU106~13",
+      "legIds": [
+        "LHR-LAX:KL1028~11:KL903~12:SU106~13:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF3624~11-AF2726~11",
+      "code": "AF3624~11-AF2726~11",
+      "legIds": [
+        "LHR-LAX:AF3624~11:AF2726~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL1028~11-KL903~12-SU102~13-B61623~13",
+      "code": "KL1028~11-KL903~12-SU102~13-B61623~13",
+      "legIds": [
+        "LHR-LAX:KL1028~11:KL903~12:SU102~13:B61623~13:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1181~11-AF66~12",
+      "code": "AF1181~11-AF66~12",
+      "legIds": [
+        "LHR-LAX:AF1181~11:AF66~12:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1381~11-AF66~11",
+      "code": "AF1381~11-AF66~11",
+      "legIds": [
+        "LHR-LAX:AF1381~11:AF66~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL6082~11-KL5036~11",
+      "code": "KL6082~11-KL5036~11",
+      "legIds": [
+        "LHR-LAX:KL6082~11:KL5036~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1281~11-AF66~12",
+      "code": "AF1281~11-AF66~12",
+      "legIds": [
+        "LHR-LAX:AF1281~11:AF66~12:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:AF1781~11-AF72~12",
+      "code": "AF1781~11-AF72~12",
+      "legIds": [
+        "LHR-LAX:AF1781~11:AF72~12:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL6139~11-KL5100~11",
+      "code": "KL6139~11-KL5100~11",
+      "legIds": [
+        "LHR-LAX:KL6139~11:KL5100~11:0"
+      ]
+    },
+    {
+      "id": "28a1fb1e2ee939c2msr:KL6102~11-KL5620~11",
+      "code": "KL6102~11-KL5620~11",
+      "legIds": [
+        "LHR-LAX:KL6102~11:KL5620~11:0"
+      ]
+    }
+  ],
+  "fares": [
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:city.travel:8087a7489e0f3df1",
+      "price": {
+        "totalAmount": 1389,
+        "totalAmountUsd": 1389,
+        "amount": 463,
+        "amountUsd": 463,
+        "originalAmount": 463,
+        "originalAmountUsd": 463,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "city.travel",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:city.travel:8087a7489e0f3df1&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=city.travel&region=ap-southeast-1",
+      "ecpc": 0.329266,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1032~11-KL903~12-SU106~13"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:city.travel:d342d9df5c3d6547",
+      "price": {
+        "totalAmount": 1395,
+        "totalAmountUsd": 1395,
+        "amount": 465,
+        "amountUsd": 465,
+        "originalAmount": 465,
+        "originalAmountUsd": 465,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "city.travel",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:city.travel:d342d9df5c3d6547&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=city.travel&region=ap-southeast-1",
+      "ecpc": 0.329266,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1028~11-KL903~12-SU106~13"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:city.travel:253ef681db93e98e",
+      "price": {
+        "totalAmount": 1542,
+        "totalAmountUsd": 1542,
+        "amount": 514,
+        "amountUsd": 514,
+        "originalAmount": 514,
+        "originalAmountUsd": 514,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "city.travel",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:city.travel:253ef681db93e98e&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=city.travel&region=ap-southeast-1",
+      "ecpc": 0.329266,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1181~11-AF1054~12-SU100~13-B6623~13"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:city.travel:98827169efca73a4",
+      "price": {
+        "totalAmount": 1578,
+        "totalAmountUsd": 1578,
+        "amount": 526,
+        "amountUsd": 526,
+        "originalAmount": 526,
+        "originalAmountUsd": 526,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "city.travel",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:city.travel:98827169efca73a4&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=city.travel&region=ap-southeast-1",
+      "ecpc": 0.329266,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1781~11-AF1054~12-SU100~13-B6623~13"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:city.travel:a85b40bb9ca3f5ac",
+      "price": {
+        "totalAmount": 1647,
+        "totalAmountUsd": 1647,
+        "amount": 549,
+        "amountUsd": 549,
+        "originalAmount": 549,
+        "originalAmountUsd": 549,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "city.travel",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:city.travel:a85b40bb9ca3f5ac&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=city.travel&region=ap-southeast-1",
+      "ecpc": 0.329266,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1032~11-KL903~12-SU102~13-B61623~13"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:city.travel:551ac5048e7f092e",
+      "price": {
+        "totalAmount": 1653,
+        "totalAmountUsd": 1653,
+        "amount": 551,
+        "amountUsd": 551,
+        "originalAmount": 551,
+        "originalAmountUsd": 551,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "city.travel",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:city.travel:551ac5048e7f092e&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=city.travel&region=ap-southeast-1",
+      "ecpc": 0.329266,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1028~11-KL903~12-SU102~13-B61623~13"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:city.travel:710b6dbdfc9e12c0",
+      "price": {
+        "totalAmount": 1689,
+        "totalAmountUsd": 1689,
+        "amount": 563,
+        "amountUsd": 563,
+        "originalAmount": 563,
+        "originalAmountUsd": 563,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "city.travel",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:city.travel:710b6dbdfc9e12c0&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=city.travel&region=ap-southeast-1",
+      "ecpc": 0.329266,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1681~11-AF1054~12-SU100~13-B6623~13"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:city.travel:1c68ec2a99352630",
+      "price": {
+        "totalAmount": 1710,
+        "totalAmountUsd": 1710,
+        "amount": 570,
+        "amountUsd": 570,
+        "originalAmount": 570,
+        "originalAmountUsd": 570,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "city.travel",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:city.travel:1c68ec2a99352630&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=city.travel&region=ap-southeast-1",
+      "ecpc": 0.329266,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1181~11-AF1054~12-SU100~13-AS407~13"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:efcca17ab753341d",
+      "price": {
+        "totalAmount": 5016,
+        "totalAmountUsd": 5016,
+        "amount": 1672,
+        "amountUsd": 1672,
+        "originalAmount": 1672,
+        "originalAmountUsd": 1672,
+        "amountPerAdult": 2371.09,
+        "amountPerChild": 0,
+        "amountPerInfant": 275.18,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:efcca17ab753341d&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1381~11-AF66~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:d3cbe2e6c7ed04cd",
+      "price": {
+        "totalAmount": 5016,
+        "totalAmountUsd": 5016,
+        "amount": 1672,
+        "amountUsd": 1672,
+        "originalAmount": 1672,
+        "originalAmountUsd": 1672,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:d3cbe2e6c7ed04cd&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1381~11-AF66~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:327b959466245b28",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 2382.88,
+        "amountPerChild": 0,
+        "amountPerInfant": 275.18,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:327b959466245b28&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1281~11-AF72~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:f46d6500c2395a54",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 2382.88,
+        "amountPerChild": 0,
+        "amountPerInfant": 275.18,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:f46d6500c2395a54&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1781~11-AF72~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:6ec8bf1850184a3f",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 2382.88,
+        "amountPerChild": 0,
+        "amountPerInfant": 275.18,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:6ec8bf1850184a3f&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1181~11-AF66~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:d1bf7b324ac80436",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 2382.88,
+        "amountPerChild": 0,
+        "amountPerInfant": 275.18,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:d1bf7b324ac80436&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1181~11-AF72~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:56e11482281ac151",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 2382.88,
+        "amountPerChild": 0,
+        "amountPerInfant": 275.18,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:56e11482281ac151&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1281~11-AF66~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:85999cd019885f7e",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 2382.88,
+        "amountPerChild": 0,
+        "amountPerInfant": 275.18,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:85999cd019885f7e&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1781~11-AF66~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:a60fa86ee6f8f844",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:a60fa86ee6f8f844&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1281~11-AF72~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:2fc75083ea866538",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:2fc75083ea866538&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1781~11-AF72~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:43662cdb726f7dca",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:43662cdb726f7dca&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1181~11-AF66~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:7ad1997942bea48e",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:7ad1997942bea48e&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1181~11-AF72~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:af38449f998eaf3c",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:af38449f998eaf3c&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1281~11-AF66~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:d84ea7f7813d05f6",
+      "price": {
+        "totalAmount": 5040,
+        "totalAmountUsd": 5040,
+        "amount": 1680,
+        "amountUsd": 1680,
+        "originalAmount": 1680,
+        "originalAmountUsd": 1680,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:d84ea7f7813d05f6&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF1781~11-AF66~12"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:b2063a895a3ddbb6",
+      "price": {
+        "totalAmount": 5046,
+        "totalAmountUsd": 5045.4087,
+        "amount": 1682,
+        "amountUsd": 1681.8029,
+        "originalAmount": 1682,
+        "originalAmountUsd": 1681.8029,
+        "amountPerAdult": 2384.0537,
+        "amountPerChild": 0,
+        "amountPerInfant": 276.7547,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:b2063a895a3ddbb6&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1000~11-KL601~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:f3a075f9dcdf02cf",
+      "price": {
+        "totalAmount": 5046,
+        "totalAmountUsd": 5045.4087,
+        "amount": 1682,
+        "amountUsd": 1681.8029,
+        "originalAmount": 1682,
+        "originalAmountUsd": 1681.8029,
+        "amountPerAdult": 2384.0537,
+        "amountPerChild": 0,
+        "amountPerInfant": 276.7547,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:f3a075f9dcdf02cf&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1000~11-KL603~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:766126da3483448a",
+      "price": {
+        "totalAmount": 5046,
+        "totalAmountUsd": 5045.4087,
+        "amount": 1682,
+        "amountUsd": 1681.8029,
+        "originalAmount": 1682,
+        "originalAmountUsd": 1681.8029,
+        "amountPerAdult": 2384.0537,
+        "amountPerChild": 0,
+        "amountPerInfant": 276.7547,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:766126da3483448a&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1002~11-KL603~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:d80a90ed0a331f2a",
+      "price": {
+        "totalAmount": 5046,
+        "totalAmountUsd": 5045.4087,
+        "amount": 1682,
+        "amountUsd": 1681.8029,
+        "originalAmount": 1682,
+        "originalAmountUsd": 1681.8029,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:d80a90ed0a331f2a&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1000~11-KL601~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:ef06f8cc573cd49e",
+      "price": {
+        "totalAmount": 5046,
+        "totalAmountUsd": 5045.4087,
+        "amount": 1682,
+        "amountUsd": 1681.8029,
+        "originalAmount": 1682,
+        "originalAmountUsd": 1681.8029,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:ef06f8cc573cd49e&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1000~11-KL603~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:bb6c4351a0f97687",
+      "price": {
+        "totalAmount": 5046,
+        "totalAmountUsd": 5045.4087,
+        "amount": 1682,
+        "amountUsd": 1681.8029,
+        "originalAmount": 1682,
+        "originalAmountUsd": 1681.8029,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:bb6c4351a0f97687&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL1002~11-KL603~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:b524892534baea48",
+      "price": {
+        "totalAmount": 5109,
+        "totalAmountUsd": 5109,
+        "amount": 1703,
+        "amountUsd": 1703,
+        "originalAmount": 1703,
+        "originalAmountUsd": 1703,
+        "amountPerAdult": 2398.71,
+        "amountPerChild": 0,
+        "amountPerInfant": 311.89,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:b524892534baea48&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF3624~11-AF2620~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:c49ff0929aad346e",
+      "price": {
+        "totalAmount": 5109,
+        "totalAmountUsd": 5109,
+        "amount": 1703,
+        "amountUsd": 1703,
+        "originalAmount": 1703,
+        "originalAmountUsd": 1703,
+        "amountPerAdult": 2398.71,
+        "amountPerChild": 0,
+        "amountPerInfant": 311.89,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:c49ff0929aad346e&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF3624~11-AF2726~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:9f4b3cb25ab5519e",
+      "price": {
+        "totalAmount": 5109,
+        "totalAmountUsd": 5109,
+        "amount": 1703,
+        "amountUsd": 1703,
+        "originalAmount": 1703,
+        "originalAmountUsd": 1703,
+        "amountPerAdult": 2398.71,
+        "amountPerChild": 0,
+        "amountPerInfant": 311.89,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:9f4b3cb25ab5519e&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF9301~11-AF3462~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:74a79e635dd0c1be",
+      "price": {
+        "totalAmount": 5109,
+        "totalAmountUsd": 5109,
+        "amount": 1703,
+        "amountUsd": 1703,
+        "originalAmount": 1703,
+        "originalAmountUsd": 1703,
+        "amountPerAdult": 2398.71,
+        "amountPerChild": 0,
+        "amountPerInfant": 311.89,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:74a79e635dd0c1be&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF3666~11-AF2644~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:987c797c545d007d",
+      "price": {
+        "totalAmount": 5109,
+        "totalAmountUsd": 5109,
+        "amount": 1703,
+        "amountUsd": 1703,
+        "originalAmount": 1703,
+        "originalAmountUsd": 1703,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:987c797c545d007d&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF3624~11-AF2620~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:30e688c26c2495b9",
+      "price": {
+        "totalAmount": 5109,
+        "totalAmountUsd": 5109,
+        "amount": 1703,
+        "amountUsd": 1703,
+        "originalAmount": 1703,
+        "originalAmountUsd": 1703,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:30e688c26c2495b9&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF3624~11-AF2726~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:a290c7949cc12bf2",
+      "price": {
+        "totalAmount": 5109,
+        "totalAmountUsd": 5109,
+        "amount": 1703,
+        "amountUsd": 1703,
+        "originalAmount": 1703,
+        "originalAmountUsd": 1703,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:a290c7949cc12bf2&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF9301~11-AF3462~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:ecc5d74a2a03eaa9",
+      "price": {
+        "totalAmount": 5109,
+        "totalAmountUsd": 5109,
+        "amount": 1703,
+        "amountUsd": 1703,
+        "originalAmount": 1703,
+        "originalAmountUsd": 1703,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:ecc5d74a2a03eaa9&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:AF3666~11-AF2644~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:d3c76910d1738fc4",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 2410.3318,
+        "amountPerChild": 0,
+        "amountPerInfant": 313.6843,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:d3c76910d1738fc4&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6111~11-KL7130~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:6284cf0a5d1e9b82",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 2410.3318,
+        "amountPerChild": 0,
+        "amountPerInfant": 313.6843,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:6284cf0a5d1e9b82&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6139~11-KL5100~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:7a3337ceb1b98e1f",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 2410.3318,
+        "amountPerChild": 0,
+        "amountPerInfant": 313.6843,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:7a3337ceb1b98e1f&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6102~11-KL5620~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:feaf2d5c8f892ce2",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 2410.3318,
+        "amountPerChild": 0,
+        "amountPerInfant": 313.6843,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:feaf2d5c8f892ce2&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6082~11-KL5036~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:dc24badd5e2689aa",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 2410.3318,
+        "amountPerChild": 0,
+        "amountPerInfant": 313.6843,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:dc24badd5e2689aa&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6187~11-KL7080~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:klm.com:40236aabd3e379fd",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 2410.3318,
+        "amountPerChild": 0,
+        "amountPerInfant": 313.6843,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "klm.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:klm.com:40236aabd3e379fd&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=klm.com&region=ap-southeast-1",
+      "ecpc": 0.378621,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6082~11-KL6248~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:b2784fda73733ff3",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:b2784fda73733ff3&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6111~11-KL7130~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:adbfe4d279bd06b3",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:adbfe4d279bd06b3&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6139~11-KL5100~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:8e303903a470f0f5",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:8e303903a470f0f5&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6102~11-KL5620~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:6d7346947a4b9301",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:6d7346947a4b9301&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6082~11-KL5036~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:5c67ea6350a09dfb",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:5c67ea6350a09dfb&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6187~11-KL7080~11"
+    },
+    {
+      "paymentFees": [
+        {
+          "paymentMethodId": 15,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 10,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        },
+        {
+          "paymentMethodId": 3,
+          "currencyCode": "USD",
+          "amount": 0,
+          "amountUsd": 0
+        }
+      ],
+      "id": "28a1fb1e2ee939c2msr:airfrance.com:2add47d9b423bb8c",
+      "price": {
+        "totalAmount": 5133,
+        "totalAmountUsd": 5133.7036,
+        "amount": 1711,
+        "amountUsd": 1711.2345,
+        "originalAmount": 1711,
+        "originalAmountUsd": 1711.2345,
+        "amountPerAdult": 0,
+        "amountPerChild": 0,
+        "amountPerInfant": 0,
+        "taxAmount": 0,
+        "taxAmountUsd": 0,
+        "totalTaxAmount": 0,
+        "totalTaxAmountUsd": 0,
+        "currencyCode": "USD",
+        "paymentFeeAmountUsd": 0,
+        "bookingFee": 0,
+        "bookingFeeUsd": 0,
+        "totalBookingFee": 0,
+        "totalBookingFeeUsd": 0
+      },
+      "providerCode": "airfrance.com",
+      "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:2add47d9b423bb8c&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com&region=ap-southeast-1",
+      "ecpc": 0.0670383,
+      "remainingSeatsCount": 0,
+      "conditionIds": [],
+      "legConditionIds": [],
+      "tripId": "28a1fb1e2ee939c2msr:KL6082~11-KL6248~11"
+    }
+  ],
+  "filters": {
+    "minPrice": {
+      "totalAmount": 1389,
+      "totalAmountUsd": 1389,
+      "amount": 463,
+      "amountUsd": 463,
+      "originalAmount": 463,
+      "originalAmountUsd": 463,
+      "amountPerAdult": 0,
+      "amountPerChild": 0,
+      "amountPerInfant": 0,
+      "taxAmount": 0,
+      "taxAmountUsd": 0,
+      "totalTaxAmount": 0,
+      "totalTaxAmountUsd": 0,
+      "currencyCode": "USD",
+      "paymentFeeAmountUsd": 0,
+      "bookingFee": 0,
+      "bookingFeeUsd": 0,
+      "totalBookingFee": 0,
+      "totalBookingFeeUsd": 0
+    },
+    "maxPrice": {
+      "totalAmount": 5133,
+      "totalAmountUsd": 5133.7036,
+      "amount": 1711,
+      "amountUsd": 1711.2345,
+      "originalAmount": 1711,
+      "originalAmountUsd": 1711.2345,
+      "amountPerAdult": 0,
+      "amountPerChild": 0,
+      "amountPerInfant": 0,
+      "taxAmount": 0,
+      "taxAmountUsd": 0,
+      "totalTaxAmount": 0,
+      "totalTaxAmountUsd": 0,
+      "currencyCode": "USD",
+      "paymentFeeAmountUsd": 0,
+      "bookingFee": 0,
+      "bookingFeeUsd": 0,
+      "totalBookingFee": 0,
+      "totalBookingFeeUsd": 0
+    },
+    "stops": [
+      {
+        "code": "ONE_STOP",
+        "price": {
+          "totalAmount": 5016,
+          "totalAmountUsd": 5016,
+          "amount": 1672,
+          "amountUsd": 1672,
+          "originalAmount": 1672,
+          "originalAmountUsd": 1672,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "MORE_THAN_ONE_STOP",
+        "price": {
+          "totalAmount": 1389,
+          "totalAmountUsd": 1389,
+          "amount": 463,
+          "amountUsd": 463,
+          "originalAmount": 463,
+          "originalAmountUsd": 463,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      }
+    ],
+    "airlines": [
+      {
+        "code": "KL",
+        "price": {
+          "totalAmount": 5046,
+          "totalAmountUsd": 5045.4087,
+          "amount": 1682,
+          "amountUsd": 1681.8029,
+          "originalAmount": 1682,
+          "originalAmountUsd": 1681.8029,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "SU",
+        "price": {
+          "totalAmount": 1389,
+          "totalAmountUsd": 1389,
+          "amount": 463,
+          "amountUsd": 463,
+          "originalAmount": 463,
+          "originalAmountUsd": 463,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "AF",
+        "price": {
+          "totalAmount": 5016,
+          "totalAmountUsd": 5016,
+          "amount": 1672,
+          "amountUsd": 1672,
+          "originalAmount": 1672,
+          "originalAmountUsd": 1672,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      }
+    ],
+    "providers": [
+      {
+        "code": "airfrance.com",
+        "price": {
+          "totalAmount": 5016,
+          "totalAmountUsd": 5016,
+          "amount": 1672,
+          "amountUsd": 1672,
+          "originalAmount": 1672,
+          "originalAmountUsd": 1672,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "klm.com",
+        "price": {
+          "totalAmount": 5016,
+          "totalAmountUsd": 5016,
+          "amount": 1672,
+          "amountUsd": 1672,
+          "originalAmount": 1672,
+          "originalAmountUsd": 1672,
+          "amountPerAdult": 2371.09,
+          "amountPerChild": 0,
+          "amountPerInfant": 275.18,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "city.travel",
+        "price": {
+          "totalAmount": 1389,
+          "totalAmountUsd": 1389,
+          "amount": 463,
+          "amountUsd": 463,
+          "originalAmount": 463,
+          "originalAmountUsd": 463,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      }
+    ],
+    "stopoverAirports": [
+      {
+        "code": "DTW",
+        "price": {
+          "totalAmount": 5109,
+          "totalAmountUsd": 5109,
+          "amount": 1703,
+          "amountUsd": 1703,
+          "originalAmount": 1703,
+          "originalAmountUsd": 1703,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "CDG",
+        "price": {
+          "totalAmount": 1542,
+          "totalAmountUsd": 1542,
+          "amount": 514,
+          "amountUsd": 514,
+          "originalAmount": 514,
+          "originalAmountUsd": 514,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "AMS",
+        "price": {
+          "totalAmount": 1389,
+          "totalAmountUsd": 1389,
+          "amount": 463,
+          "amountUsd": 463,
+          "originalAmount": 463,
+          "originalAmountUsd": 463,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "BOS",
+        "price": {
+          "totalAmount": 5133,
+          "totalAmountUsd": 5133.7036,
+          "amount": 1711,
+          "amountUsd": 1711.2345,
+          "originalAmount": 1711,
+          "originalAmountUsd": 1711.2345,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "ATL",
+        "price": {
+          "totalAmount": 5109,
+          "totalAmountUsd": 5109,
+          "amount": 1703,
+          "amountUsd": 1703,
+          "originalAmount": 1703,
+          "originalAmountUsd": 1703,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "MSP",
+        "price": {
+          "totalAmount": 5133,
+          "totalAmountUsd": 5133.7036,
+          "amount": 1711,
+          "amountUsd": 1711.2345,
+          "originalAmount": 1711,
+          "originalAmountUsd": 1711.2345,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "SVO",
+        "price": {
+          "totalAmount": 1389,
+          "totalAmountUsd": 1389,
+          "amount": 463,
+          "amountUsd": 463,
+          "originalAmount": 463,
+          "originalAmountUsd": 463,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      },
+      {
+        "code": "JFK",
+        "price": {
+          "totalAmount": 1542,
+          "totalAmountUsd": 1542,
+          "amount": 514,
+          "amountUsd": 514,
+          "originalAmount": 514,
+          "originalAmountUsd": 514,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      }
+    ],
+    "stopoverDurations": {
+      "min": 50,
+      "max": 2730
+    },
+    "originAirports": [
+      {
+        "code": "LHR",
+        "price": {
+          "totalAmount": 1389,
+          "totalAmountUsd": 1389,
+          "amount": 463,
+          "amountUsd": 463,
+          "originalAmount": 463,
+          "originalAmountUsd": 463,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      }
+    ],
+    "destinationAirports": [
+      {
+        "code": "LAX",
+        "price": {
+          "totalAmount": 1389,
+          "totalAmountUsd": 1389,
+          "amount": 463,
+          "amountUsd": 463,
+          "originalAmount": 463,
+          "originalAmountUsd": 463,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      }
+    ],
+    "tripDurations": {
+      "min": 805,
+      "max": 4007
+    },
+    "legs": [
+      {
+        "departureAirportCode": "LHR",
+        "arrivalAirportCode": "LAX",
+        "departureCityCode": "LON",
+        "arrivalCityCode": "LAX",
+        "index": 0,
+        "departureTimes": {
+          "min": 380,
+          "max": 1255
+        },
+        "arrivalTimes": {
+          "min": 715,
+          "max": 1422
+        },
+        "durations": {
+          "min": 805,
+          "max": 4007
+        },
+        "stops": [
+          {
+            "code": "ONE_STOP",
+            "price": {
+              "totalAmount": 5016,
+              "totalAmountUsd": 5016,
+              "amount": 1672,
+              "amountUsd": 1672,
+              "originalAmount": 1672,
+              "originalAmountUsd": 1672,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "MORE_THAN_ONE_STOP",
+            "price": {
+              "totalAmount": 1389,
+              "totalAmountUsd": 1389,
+              "amount": 463,
+              "amountUsd": 463,
+              "originalAmount": 463,
+              "originalAmountUsd": 463,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          }
+        ],
+        "stopoverDurations": {
+          "min": 50,
+          "max": 2730
+        },
+        "stopoverAirports": [
+          {
+            "code": "DTW",
+            "price": {
+              "totalAmount": 5109,
+              "totalAmountUsd": 5109,
+              "amount": 1703,
+              "amountUsd": 1703,
+              "originalAmount": 1703,
+              "originalAmountUsd": 1703,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "CDG",
+            "price": {
+              "totalAmount": 1542,
+              "totalAmountUsd": 1542,
+              "amount": 514,
+              "amountUsd": 514,
+              "originalAmount": 514,
+              "originalAmountUsd": 514,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "AMS",
+            "price": {
+              "totalAmount": 1389,
+              "totalAmountUsd": 1389,
+              "amount": 463,
+              "amountUsd": 463,
+              "originalAmount": 463,
+              "originalAmountUsd": 463,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "BOS",
+            "price": {
+              "totalAmount": 5133,
+              "totalAmountUsd": 5133.7036,
+              "amount": 1711,
+              "amountUsd": 1711.2345,
+              "originalAmount": 1711,
+              "originalAmountUsd": 1711.2345,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "ATL",
+            "price": {
+              "totalAmount": 5109,
+              "totalAmountUsd": 5109,
+              "amount": 1703,
+              "amountUsd": 1703,
+              "originalAmount": 1703,
+              "originalAmountUsd": 1703,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "MSP",
+            "price": {
+              "totalAmount": 5133,
+              "totalAmountUsd": 5133.7036,
+              "amount": 1711,
+              "amountUsd": 1711.2345,
+              "originalAmount": 1711,
+              "originalAmountUsd": 1711.2345,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "SVO",
+            "price": {
+              "totalAmount": 1389,
+              "totalAmountUsd": 1389,
+              "amount": 463,
+              "amountUsd": 463,
+              "originalAmount": 463,
+              "originalAmountUsd": 463,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "JFK",
+            "price": {
+              "totalAmount": 1542,
+              "totalAmountUsd": 1542,
+              "amount": 514,
+              "amountUsd": 514,
+              "originalAmount": 514,
+              "originalAmountUsd": 514,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          }
+        ],
+        "airlines": [
+          {
+            "code": "KL",
+            "price": {
+              "totalAmount": 5046,
+              "totalAmountUsd": 5045.4087,
+              "amount": 1682,
+              "amountUsd": 1681.8029,
+              "originalAmount": 1682,
+              "originalAmountUsd": 1681.8029,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "SU",
+            "price": {
+              "totalAmount": 1389,
+              "totalAmountUsd": 1389,
+              "amount": 463,
+              "amountUsd": 463,
+              "originalAmount": 463,
+              "originalAmountUsd": 463,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          },
+          {
+            "code": "AF",
+            "price": {
+              "totalAmount": 5016,
+              "totalAmountUsd": 5016,
+              "amount": 1672,
+              "amountUsd": 1672,
+              "originalAmount": 1672,
+              "originalAmountUsd": 1672,
+              "amountPerAdult": 0,
+              "amountPerChild": 0,
+              "amountPerInfant": 0,
+              "taxAmount": 0,
+              "taxAmountUsd": 0,
+              "totalTaxAmount": 0,
+              "totalTaxAmountUsd": 0,
+              "currencyCode": "USD",
+              "paymentFeeAmountUsd": 0,
+              "bookingFee": 0,
+              "bookingFeeUsd": 0,
+              "totalBookingFee": 0,
+              "totalBookingFeeUsd": 0
+            }
+          }
+        ]
+      }
+    ],
+    "alliances": [
+      {
+        "code": "sky_team",
+        "price": {
+          "totalAmount": 1389,
+          "totalAmountUsd": 1389,
+          "amount": 463,
+          "amountUsd": 463,
+          "originalAmount": 463,
+          "originalAmountUsd": 463,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        }
+      }
+    ],
+    "fareConditions": []
+  },
+  "routeSponsors": [
+    {
+      "priority": 0,
+      "fare": {
+        "paymentFees": [
+          {
+            "paymentMethodId": 15,
+            "currencyCode": "USD",
+            "amount": 0,
+            "amountUsd": 0
+          },
+          {
+            "paymentMethodId": 10,
+            "currencyCode": "USD",
+            "amount": 0,
+            "amountUsd": 0
+          },
+          {
+            "paymentMethodId": 3,
+            "currencyCode": "USD",
+            "amount": 0,
+            "amountUsd": 0
+          }
+        ],
+        "id": "28a1fb1e2ee939c2msr:airfrance.com:b2784fda73733ff3",
+        "price": {
+          "totalAmount": 5133,
+          "totalAmountUsd": 5133.7036,
+          "amount": 1711,
+          "amountUsd": 1711.2345,
+          "originalAmount": 1711,
+          "originalAmountUsd": 1711.2345,
+          "amountPerAdult": 0,
+          "amountPerChild": 0,
+          "amountPerInfant": 0,
+          "taxAmount": 0,
+          "taxAmountUsd": 0,
+          "totalTaxAmount": 0,
+          "totalTaxAmountUsd": 0,
+          "currencyCode": "USD",
+          "paymentFeeAmountUsd": 0,
+          "bookingFee": 0,
+          "bookingFeeUsd": 0,
+          "totalBookingFee": 0,
+          "totalBookingFeeUsd": 0
+        },
+        "providerCode": "airfrance.com",
+        "handoffUrl": "https://handoff.wego.com/flights/continue?currency=USD&url_locale=en&site_code=US&device_type=desktop&app_type=WEB_APP&domain=www.wego.com&fare_id=28a1fb1e2ee939c2msr:airfrance.com:b2784fda73733ff3&placement_type=metasearch&route=LHR-LAX&search_id=28a1fb1e2ee939c2msr&trip_id=LHR:LAX:2021-10-11&pwa=false&api_version=2&integration_code=airfrance.com",
+        "ecpc": 0.0670383,
+        "remainingSeatsCount": 0,
+        "conditionIds": [],
+        "legConditionIds": [],
+        "tripId": "28a1fb1e2ee939c2msr:KL6111~11-KL7130~11"
+      }
+    }
+  ],
+  "scores": {
+    "28a1fb1e2ee939c2msr:KL6111~11-KL7130~11": 774.63,
+    "28a1fb1e2ee939c2msr:AF1781~11-AF66~12": 582,
+    "28a1fb1e2ee939c2msr:KL1000~11-KL601~11": 773.67,
+    "28a1fb1e2ee939c2msr:KL1000~11-KL603~11": 778.33,
+    "28a1fb1e2ee939c2msr:KL6082~11-KL6248~11": 771.53,
+    "28a1fb1e2ee939c2msr:AF3666~11-AF2644~11": 725.57,
+    "28a1fb1e2ee939c2msr:AF1181~11-AF1054~12-SU100~13-AS407~13": 121.899994,
+    "28a1fb1e2ee939c2msr:AF1281~11-AF72~12": 563.83,
+    "28a1fb1e2ee939c2msr:KL1002~11-KL603~11": 784.5,
+    "28a1fb1e2ee939c2msr:AF1181~11-AF72~12": 593.33,
+    "28a1fb1e2ee939c2msr:AF3624~11-AF2620~11": 721.33,
+    "28a1fb1e2ee939c2msr:AF9301~11-AF3462~11": 745.53,
+    "28a1fb1e2ee939c2msr:KL1032~11-KL903~12-SU102~13-B61623~13": 71.20001,
+    "28a1fb1e2ee939c2msr:KL6187~11-KL7080~11": 767.33,
+    "28a1fb1e2ee939c2msr:AF1681~11-AF1054~12-SU100~13-B6623~13": 62.700012,
+    "28a1fb1e2ee939c2msr:KL1032~11-KL903~12-SU106~13": 289.5,
+    "28a1fb1e2ee939c2msr:AF1781~11-AF1054~12-SU100~13-B6623~13": 90.03,
+    "28a1fb1e2ee939c2msr:AF1181~11-AF1054~12-SU100~13-B6623~13": 105.70001,
+    "28a1fb1e2ee939c2msr:KL1028~11-KL903~12-SU106~13": 291.5,
+    "28a1fb1e2ee939c2msr:AF3624~11-AF2726~11": 736.8,
+    "28a1fb1e2ee939c2msr:KL1028~11-KL903~12-SU102~13-B61623~13": 73.20001,
+    "28a1fb1e2ee939c2msr:AF1181~11-AF66~12": 636.83,
+    "28a1fb1e2ee939c2msr:AF1381~11-AF66~11": 758.33,
+    "28a1fb1e2ee939c2msr:KL6082~11-KL5036~11": 756.03,
+    "28a1fb1e2ee939c2msr:AF1281~11-AF66~12": 607.33,
+    "28a1fb1e2ee939c2msr:AF1781~11-AF72~12": 538.5,
+    "28a1fb1e2ee939c2msr:KL6139~11-KL5100~11": 764.8,
+    "28a1fb1e2ee939c2msr:KL6102~11-KL5620~11": 761.67
+  },
+  "paymentMethods": [
+    {
+      "id": 3,
+      "name": "American Express"
+    },
+    {
+      "id": 5,
+      "name": "Diners Club"
+    },
+    {
+      "id": 6,
+      "name": "Discover"
+    },
+    {
+      "id": 7,
+      "name": "JCB"
+    },
+    {
+      "id": 8,
+      "name": "萬事達信用卡"
+    },
+    {
+      "id": 9,
+      "name": "MasterCard Cirrus"
+    },
+    {
+      "id": 10,
+      "name": "MasterCard Credit"
+    },
+    {
+      "id": 11,
+      "name": "MasterCard Debit"
+    },
+    {
+      "id": 12,
+      "name": "MasterCard Maestro"
+    },
+    {
+      "id": 14,
+      "name": "Visa"
+    },
+    {
+      "id": 15,
+      "name": "Visa Credit"
+    },
+    {
+      "id": 16,
+      "name": "Visa Debit"
+    },
+    {
+      "id": 17,
+      "name": "Visa Electron"
+    },
+    {
+      "id": 90,
+      "name": "UATP"
+    }
+  ],
+  "fareConditions": [],
+  "faresCount": {
+    "28a1fb1e2ee939c2msr:KL6111~11-KL7130~11": 2,
+    "28a1fb1e2ee939c2msr:AF1781~11-AF66~12": 2,
+    "28a1fb1e2ee939c2msr:KL1000~11-KL601~11": 2,
+    "28a1fb1e2ee939c2msr:KL1000~11-KL603~11": 2,
+    "28a1fb1e2ee939c2msr:KL6082~11-KL6248~11": 2,
+    "28a1fb1e2ee939c2msr:AF1181~11-AF1054~12-SU100~13-AS407~13": 1,
+    "28a1fb1e2ee939c2msr:AF3666~11-AF2644~11": 2,
+    "28a1fb1e2ee939c2msr:KL1002~11-KL603~11": 2,
+    "28a1fb1e2ee939c2msr:AF1281~11-AF72~12": 2,
+    "28a1fb1e2ee939c2msr:AF1181~11-AF72~12": 2,
+    "28a1fb1e2ee939c2msr:AF3624~11-AF2620~11": 2,
+    "28a1fb1e2ee939c2msr:KL1032~11-KL903~12-SU102~13-B61623~13": 1,
+    "28a1fb1e2ee939c2msr:AF9301~11-AF3462~11": 2,
+    "28a1fb1e2ee939c2msr:KL6187~11-KL7080~11": 2,
+    "28a1fb1e2ee939c2msr:AF1681~11-AF1054~12-SU100~13-B6623~13": 1,
+    "28a1fb1e2ee939c2msr:KL1032~11-KL903~12-SU106~13": 1,
+    "28a1fb1e2ee939c2msr:AF1781~11-AF1054~12-SU100~13-B6623~13": 1,
+    "28a1fb1e2ee939c2msr:AF1181~11-AF1054~12-SU100~13-B6623~13": 1,
+    "28a1fb1e2ee939c2msr:KL1028~11-KL903~12-SU106~13": 1,
+    "28a1fb1e2ee939c2msr:AF3624~11-AF2726~11": 2,
+    "28a1fb1e2ee939c2msr:KL1028~11-KL903~12-SU102~13-B61623~13": 1,
+    "28a1fb1e2ee939c2msr:AF1181~11-AF66~12": 2,
+    "28a1fb1e2ee939c2msr:KL6082~11-KL5036~11": 2,
+    "28a1fb1e2ee939c2msr:AF1381~11-AF66~11": 2,
+    "28a1fb1e2ee939c2msr:AF1281~11-AF66~12": 2,
+    "28a1fb1e2ee939c2msr:AF1781~11-AF72~12": 2,
+    "28a1fb1e2ee939c2msr:KL6139~11-KL5100~11": 2,
+    "28a1fb1e2ee939c2msr:KL6102~11-KL5620~11": 2
+  },
+  "promosCount": {},
+  "count": 48
+}

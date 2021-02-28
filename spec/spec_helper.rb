@@ -4,6 +4,7 @@ require 'rails_helper'
 require 'rspec-rails'
 require 'ffaker'
 require 'database_cleaner'
+require 'webmock/rspec'
 
 RSpec.configure do |config|
   config.include Helpers::ApiHelpers, type: :api
@@ -40,3 +41,5 @@ RSpec.configure do |config|
   config.order = :random
   Kernel.srand config.seed
 end
+
+WebMock.disable_net_connect!(allow_localhost: true)

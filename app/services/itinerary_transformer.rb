@@ -1,0 +1,3 @@
+class ItineraryTransformer
+
+end

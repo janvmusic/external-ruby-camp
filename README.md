@@ -1,6 +1,5 @@
 # External Ruby Camp
-## Summary
-### Flight Searcher App
+Availability example made using Ruby on Rails & React
 
 ### Technologies to use
 ### Backend
@@ -34,7 +33,8 @@ I should be able to search for a location and the start / end dates of my trip.
 The application should display real flight availability, you choose how (grouped vs non grouped, high vs low price etc).
 
 #### Sources
-[Airport Database](https://github.com/jpatokal/openflights)
+- [Airport Database](https://github.com/jpatokal/openflights)
+- [Flight API](https://www.flightapi.io/docs/)
 
 ## Development
 ### Setup
@@ -69,8 +69,10 @@ The application should display real flight availability, you choose how (grouped
 4. Install dependencies -> `$ bundle install && rails server`
 
 ### Endpoints
-- Airports: 
-  a) City `/api/v1/airports?search={city}`
-  b) Iata `/api/v1/airports?search={iata}`
-  c) Name `/api/v1/airports?search={name}`
-  d) Country `/api/v1/airports?search={country}`
+Airports
+  1. City: `/api/v1/airports?search={city}`  
+  2. Iata: `/api/v1/airports?search={iata}`
+  3. Name: `/api/v1/airports?search={name}`
+  4. Country: `/api/v1/airports?search={country}`
+
+Search
